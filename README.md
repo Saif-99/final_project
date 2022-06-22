@@ -1,3 +1,12 @@
+Group Mates:
+Md Borhan Uddin	1822665
+Saif Al Faied	1828615
+Md. Shariful Islam	1720601
+Mahin Islam	1723486
+
+
+
+
 Project Summary: 
 E- commerce is the most powerful factor for modern business growth. Nowadays, e-commerce becomes one of the most essential facts to bring consumer for any business in a shorter period of time. With an optimized and well-developed website and social media of ecommerce, business is achieving their goals shortly. With the increasing popularity of E-commerce, the traditional telephone order food has inconvenience to the customers and the online store. How to make the online delivery more quickly and conveniently has become a concern of people. Hence, we have created a e- commerce app with necessary functionality and proper labelling. This e-commerce trading app has been developed with easy and simple features to make it user-friendly website.
 
